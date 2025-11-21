@@ -1,10 +1,12 @@
+Change Log (2025-11-20): Updated closed-venue rule to add a backup suggestion in case the replacement is also unavailable.
+
 ### **Module 3 — Feasibility & Guardrails**
 
 Apply these **if/else** checks to make sure plans are realistic and adapt to edge cases:
 
 1. **Closed Venue**
    
-   - If a museum or park is closed on that day → suggest a similar indoor option nearby.
+   - If a museum or park is closed on that day → suggest a similar indoor option nearby, as well as a backup option in case the suggestion is unavailable.
 
 2. **Over-Budget Meal**
    
